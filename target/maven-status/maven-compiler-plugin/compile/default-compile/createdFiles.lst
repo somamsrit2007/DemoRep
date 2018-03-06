@@ -1,0 +1,10 @@
+com\crm\pages\LoginPage.class
+com\crm\pages\SingUpPage.class
+com\crm\util\WebEventListener.class
+com\crm\util\Testutil.class
+com\crm\base\TestBase_Driver.class
+com\crm\pages\ContactsPage.class
+com\crm\pages\HomePage.class
+com\ExtentReportListener\ExtentReporterNG.class
+com\crm\pages\DealPage.class
+com\crm\pages\TaskPage.class
